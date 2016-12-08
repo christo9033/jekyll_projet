@@ -1,0 +1,41 @@
+---
+layout: default
+title: playlist
+---
+
+<div class="container">
+    <section class="row">
+
+        <h1>{{ site.data.playlist.title }}</h1>
+
+        {% for video in site.data.playlist.videos %}
+
+        <div class="col-lg-8 col-lg-push-3">
+            <table>
+                <tr>
+                    <th>Nom</th>
+                    <th>Titre</th>
+                    <th>Artiste</th>
+                    <th>Durée</th>
+                    <th>Date de sortie</th>
+                </tr>
+                <tr>
+                    <td>{{ video.name }}</td>
+                    <td>{{ video.meta.song }}</td>
+                    <td>{{ video.meta.artist }}</td>
+                    <td>{{ video.meta.duration }}</td>
+                    <td>{{ video.meta.release }}</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="col-lg-8 col-lg-push-3">
+
+            <div>
+                <iframe width="454" height="280"  src="{{ video.meta.url }}"  allowfullscreen></iframe>
+            </div>
+
+        </div>
+            {% endfor %}
+    </section>
+</div>

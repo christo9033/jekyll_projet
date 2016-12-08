@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Rock Band 3"
+date:   2016-11-20 17:30:00 +0100
+categories: News
+comments : true
+---
+# Devenez une rockstar!!!
+
+![Screen de Rock Band 3](/images/rockband3.png)
+
+Dans le même registre que rocksmith je vais vous faire découvrir le jeux Rock Band 3 qui est compatible avec la guitare,
+la batterie, le clavier, et le micro, le seul problème c'est que les instruments sont factice...
+Si je vous présente ce jeux c'est qu'il y a une possibilité de remplacer certain instruments par de vrai instrument 
+(pour la guitare il y a un logiciel qui pourrais permettre de la faire fonctionner mais sans trop de garantie,
+si vous souhaitez faire de la guitare je vous conseil plutôt de vous diriger sur  #sur rocksmith# beaucoup mieux spécialisé pour la guitare.
+
+Cet article vas donc nous mener vers le clavier et la batterie, je vais déjà vous faire une petite présentation du clavier, puis finir par la batterie.
+
+![Screen de Rock Band 3](/images/clavier.jpg)
+
+### Voici une petite présentation de jeuxvideo.com sur ce fameux clavier:
+
+>De taille assez modeste, le clavier comprend tout de même deux octaves, 25 touches noires et blanches auxquelles s'ajoutent une touche servant à déclencher la transe
+>et une barre tactile qui joue le même rôle que le vibrato de la guitare. Comme tous les instruments, le clavier peut se pratiquer de deux façons : classique et pro.
+>En mode Classique, on retrouve le gameplay habituel de la série et seules 5 touches sont utilisées, offrant une prise en main similaire à celle de la guitare,
+>le médiator en moins. C'est abordable par n'importe qui, mais malheureusement assez vide d'intérêt et franchement trop facile.
+>Du coup, pour exploiter réellement l'instrument, c'est du côté du mode Pro qu'il faut se tourner, et là, c'est une autre paire de manches.
+
+
+### La batterie 
+
+![Screen de Rock Band 3](/images/batterie.jpg)
+
+Pour la batterie il n'y a pas grand chose de plus a expliquer, vous pouvez passer en mode pro avec une batterie électronique compatible.
+Tout comme le clavier en mode pro la difficulté va être grandement augmenter mais les notes serons très proche de vos musiques préféré.
+
+
+**Attention pour les instruments adaptable sur RockBand 3 il faut un boitier [MIDI](https://www.amazon.fr/Rock-band-Midi-pro-adaptateur-pour/dp/B0042B3EOM) pour les rendre compatibleavec celui-ci**
+
+  
+Voila il ne vous reste plus qu'a créer votre propre groupe de musique et vous lancer dans un concert avec vos amis !!!
+
+![Screen de Rock Band 3](/images/rb.jpg)
+
+
+Si vous souhaitez voir d'autres vidéos de cover de rocksmith, c'est [ici](/playlist/index.html)
+Le lien du jeux: [RockBand3](https://www.amazon.fr/Electronic-Arts-Rock-Band-3/dp/B003SX14TM/ref=sr_1_1?s=videogames&ie=UTF8&qid=1479667506&sr=1-1&keywords=rock+band+3)

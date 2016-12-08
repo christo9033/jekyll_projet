@@ -1,0 +1,30 @@
+---
+layout: post
+title: "2 Cellos"
+date:   2016-11-27 17:30:00 +0100
+categories: News
+comments : true
+---
+# 2CELLOS
+
+![Screen de rocksmith](/images/cellos.jpg)
+
+Voici une petite bio de wikipédia:
+
+2Cellos est un duo de violoncellistes slovène-croates, composé de Luka Šulić et de Stjepan Hauser. 
+Le groupe est engagé auprès de Sony Masterworks depuis le 12 avril 2011, grâce notamment au succès de leur reprise de "Smooth Criminal" de Michael Jackson1. 
+
+Les deux musiciens ont tous deux une formation de musique classique. 
+Ils se rencontrent au cours d'un Master Class. Šulić, le plus jeune d'entre eux (1987), 
+part à l'Académie de musique de Zagreb puis à la Royal Academy of Music, et Hauser (1986) à la Royal Northern College of Music, de Manchester.
+Considérés dans un premier temps comme des rivaux, cherchant la compétition à chaque concours, 
+les deux hommes vont rapidement se lier d'amitié et mettre en commun leur savoir. 
+La création de leur première vidéo, une reprise de Smooth Criminal, 
+est motivée par une grande difficulté financière et surtout inspirée par l'aide d'un ami de Hauser, 
+un directeur qui leur propose de s'essayer à la musique pop : U2, Nirvana, Coldplay, Sting.
+
+Voici une vidéo d'exemple de leurs performances:
+
+<iframe width="654" height="380" src="https://www.youtube.com/embed/Mx0xCI1jaUM" frameborder="0" allowfullscreen></iframe>
+
+Vous trouverez mon top 3 des vidéos de 2CELLOS [ici](/playlist/index.html)

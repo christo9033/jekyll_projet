@@ -1,0 +1,26 @@
+<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{site.url}}/">Mon site</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+        	    {% for link in site.navigation %}
+                    {% assign current = nil %}
+                    {% assign currentPage = page.url | remove: 'index.html' %}
+                        {% if currentPage == link.url or page.layout == link.layout %}
+                            {% assign current = 'active' %}
+                        {% endif %}
+                        <li class="{{current}}"><a href="{{site.url}}{{ link.url }}">{{ link.text }}</a></li>
+                {% endfor %}
+                <li><a href="mailto:exemple@exemple.com">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

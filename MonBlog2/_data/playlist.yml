@@ -1,0 +1,81 @@
+title: Youtube videos playslist
+author: Christopher Sabin
+
+videos:
+  - name: Rocksmith 2014
+    meta:
+      url: https://www.youtube.com/embed/uaHsqGSetVo
+      song: MUSE "Knights of Cydonia"
+      artist: Riff Repeater
+      duration: 00:06:14
+      release: 23/10/2013
+  - name: Rocksmith 2014
+    meta:
+      url: https://www.youtube.com/embed/SavmqnQIgGE
+      song: Queen "Another One Bites the Dust"
+      artist: Riff repeater
+      duration: 00:03:47
+      release: 22/07/2015
+  - name: Rocksmith 2014
+    meta:
+      url: https://www.youtube.com/embed/_0dCVZ1FBo0
+      song: Aerosmith "Dream On"
+      artist: riff repeater
+      duration: 00:04:41
+      release: 07/01/2014
+  - name: Rocksmith 2014
+    meta:
+      url: https://www.youtube.com/embed/Y3V-F5LxKEI
+      song: Oasis "Wonderwall"
+      artist: Riff repeater
+      duration: 00:04:34
+      release: 14/01/2014
+  - name: Rock Band Pro Drums
+    meta:
+      url: https://www.youtube.com/embed/3db_jHne5CE
+      song: Bring Me To Life - Evanescence -
+      artist: Rock Band Pro Drummer
+      duration: 00:04:23
+      release: 19/03/2013
+  - name: Rock Band Pro Drums
+    meta:
+      url: https://www.youtube.com/embed/7SRzKKe1OuM
+      song: The Final Countdown - Europe -
+      artist: Rock Band Pro Drummer
+      duration: 00:05:29
+      release: 29/03/2013
+  - name: Rock Band Pro Drums
+    meta:
+      url: https://www.youtube.com/embed/Lgokmn2LBkc
+      song: Smooth Criminal
+      artist: RHCPFL3A
+      duration: 00:04:21
+      release: 11/07/2011
+  - name: Rock Band Pro Drums
+    meta:
+      url: https://www.youtube.com/embed/3VAFTIfooFk
+      song: Everlong
+      artist: RHCPFL3A
+      duration: 00:04:26
+      release: 11/03/2011
+  - name: 2CELLOS
+    meta:
+      url: https://www.youtube.com/embed/uT3SBzmDxGk
+      song: Thunderstruck
+      artist: 2CELLOS
+      duration: 00:04:58
+      release: 18/02/2014
+  - name: 2CELLOS
+    meta:
+      url: https://www.youtube.com/embed/N-YuSKeFMxY
+      song: Wake Me Up - Avicii
+      artist: 2CELLOS
+      duration: 00:03:50
+      release: 06/01/2015
+  - name: 2CELLOS
+    meta:
+      url: https://www.youtube.com/embed/l-9VZZWtMfQ
+      song: They Don't Care About Us - Michael Jackson
+      artist: 2CELLOS
+      duration: 00:05:02
+      release: 28/04/2015
