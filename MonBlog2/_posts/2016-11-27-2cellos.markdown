@@ -5,7 +5,7 @@ date:   2016-11-27 17:30:00 +0100
 categories: News
 comments : true
 ---
-# 2CELLOS
+
 
 ![Screen de rocksmith](/images/cellos.jpg)
 

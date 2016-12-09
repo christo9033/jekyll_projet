@@ -1,4 +1,4 @@
-  blog_jekyll
+tuto_blog_jekyll
 ================
 
-Création d'un blog avec jekyll sur le thème de la musique.
+TUTO : Créer un blog sous Jekyll et l'héberger sur GitHub

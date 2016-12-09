@@ -1,5 +1,5 @@
 # l'url finale de votre site. Elle est utilisée dans la variable site.url
-url : http://www.pierrebaron.fr/tuto_blog_jekyll
+url :
 # le nom de votre site
 name: Mon Blog
 # le parseur de Markdown à utiliser pour parser vos fichiers. La syntaxe Markdown peut changer suivant le parseur utilisé
@@ -11,7 +11,7 @@ paginate_path: /blog/page:num
 # l'url générée pour la visualisation d'un article complet
 permalink: /blog/:title
 # remplacez par votre shortName disqus
-disqus : 'christo9033'
+disqus : christo9033
 encoding: UTF-8
 navigation:
 - text: Index
@@ -22,6 +22,4 @@ navigation:
   url: /about/
 - text: Playlist
   url: /playlist/
-- text: cv
-  url: /cv/
   layout: post
